@@ -1,0 +1,13 @@
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.AssemblyInfoInputs.cache
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.AssemblyInfo.cs
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.csproj.CoreCompileInputs.cache
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\bin\Debug\netcoreapp3.1\ClassmatesRevisited.exe
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\bin\Debug\netcoreapp3.1\ClassmatesRevisited.deps.json
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\bin\Debug\netcoreapp3.1\ClassmatesRevisited.runtimeconfig.json
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\bin\Debug\netcoreapp3.1\ClassmatesRevisited.runtimeconfig.dev.json
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\bin\Debug\netcoreapp3.1\ClassmatesRevisited.dll
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\bin\Debug\netcoreapp3.1\ClassmatesRevisited.pdb
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.dll
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.pdb
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.genruntimeconfig.cache
+C:\Users\Labden\source\repos\ClassmatesRevisited\ClassmatesRevisited\obj\Debug\netcoreapp3.1\ClassmatesRevisited.csprojAssemblyReference.cache
